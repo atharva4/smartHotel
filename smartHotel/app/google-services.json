@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150188513466",
+    "project_id": "hotelbooking-fddf8",
+    "storage_bucket": "hotelbooking-fddf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150188513466:android:930fcea423bb34f58d8a83",
+        "android_client_info": {
+          "package_name": "com.example.firehotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150188513466-2ngkkjec48cfl3mjeg95l3314jpbrk5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpgOb_lLf1jIaPjWBX8fuGoNjfHh3Yg_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150188513466-2ngkkjec48cfl3mjeg95l3314jpbrk5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

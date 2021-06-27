@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    app:cardCornerRadius="15dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- app:cardBackgroundColor="@color/teal_200"-->
+
+
+        <LinearLayout
+            android:layout_width="330dp"
+            android:layout_height="234dp"
+            android:gravity="center_horizontal"
+            android:background="@drawable/bgcolor"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Name"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textarea"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Area"
+                android:textColor="@color/white"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textcost"
+                android:layout_width="wrap_content"
+                android:layout_height="49dp"
+                android:layout_marginTop="10dp"
+                android:text="Cost"
+                android:textColor="@color/white"
+                android:textSize="25sp" />
+
+            <ToggleButton
+                android:id="@+id/btnToggle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@color/black"
+                android:clickable="true"
+                />
+
+            <!--<Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="56dp"
+                android:checked="true"
+                android:textOff="OFF"
+                android:textOn="ON"
+                android:id="@+id/switch1"
+                android:visibility="visible"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />-->
+
+            <!--<TextView
+                android:id="@+id/textuserId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="userId"
+                android:visibility="visible" />-->
+
+        </LinearLayout>
+
+</androidx.cardview.widget.CardView>
