@@ -23,3 +23,13 @@ To create a mobile application that enables the user to booked lock/unlock their
 4. My Bookings
    1. User's booked Hotels are Displayed here
    2. Here, the user can lock/unlock the door using a simple button.
+
+## Images
+<img src="images/login.jpg" height="300">
+<img src="images/registration.jpg" height="300">
+<img src="images/forgotPassword.jpg" height="300">
+<img src="images/navBar.jpg" height="300">
+<img src="images/myAccount.jpg" height="300">
+<img src="images/hotels.jpg" height="300">
+<img src="images/hotelInfo.jpg" height="300">
+<img src="images/booked.jpg" height="300">
