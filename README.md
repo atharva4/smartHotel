@@ -2,7 +2,7 @@
 An Android application that lets user to have access of their booked hotel room and allow them to lock/unlock their main door using raspberry pi (Only Android files here)
 
 ## Objective
-To create a mobile application that enables the user to booked lock/unlock their hotel rooms just by a single click.
+To create a mobile application that enables the user to lock/unlock their booked hotel rooms just by a single click.
 
 ## Technology Stack
 1. Android Studio
